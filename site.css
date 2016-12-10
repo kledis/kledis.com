@@ -1,4 +1,6 @@
-body{ -webkit-order:3;order:3;
+
+
+body{ 
     margin: 30px;
     margin-left: 300px;
     margin-right: 300px;
@@ -19,7 +21,7 @@ body{ -webkit-order:3;order:3;
 
 /*******Navbar*****/
 
-nav { -webkit-order:3;order:3;
+nav { 
   background: rgb(108,167,69);
   height: 130px;
   width: 100%;
@@ -31,7 +33,7 @@ nav { -webkit-order:3;order:3;
   
 }
 
-nav ol { -webkit-order:3;order:3;
+nav ol { 
   list-style-type: none;
   padding-right: 250px;
   margin: 0;
@@ -42,7 +44,7 @@ nav li {
   min-width: 60px;
   padding-left: 22px;
 }
-nav a { -webkit-order:3;order:3;
+nav a { 
   text-decoration: none;
   display: inline-block;
   min-width: 100px;
@@ -56,7 +58,7 @@ nav a { -webkit-order:3;order:3;
   
 
 }
-nav a:hover { -webkit-order:3;order:3;
+nav a:hover { 
   border: 1px solid;
   border-color: #E59400;
   height: 13px;
@@ -65,19 +67,19 @@ nav a:hover { -webkit-order:3;order:3;
   padding-left:3px;
 
 }
-#Home { -webkit-order:3;order:3;
+#Home { 
     color: white;
     background-color: brown;
     text-align: center;
     
 } 
-#AboutUs { -webkit-order:3;order:3;
+#AboutUs { 
     color: black;
     background-color: gold;
     text-align: center;
     
 }
-#OurMenu { -webkit-order:3;order:3;
+#OurMenu { 
     color: white;;
     background-color: rgb(5,1,0);
     text-align: center;
@@ -89,14 +91,14 @@ nav a:hover { -webkit-order:3;order:3;
     text-align: center;
     
 }
-#ContactUs { -webkit-order:3;order:3;
+#ContactUs { 
     color: white;
     background-color: red;
     text-align: center;
     
 }
 
-#logo { -webkit-order:3;order:3;
+#logo { 
 
     margin:10px;
     width:284px;height:168px;
@@ -453,7 +455,7 @@ border: gray solid 2px;
 /*******Upper Footer******/
 
 
-.container3 { -webkit-order:3;order:3;
+.container3 { 
     
     border: 1px solid grey;
     height: 50px;
@@ -466,13 +468,10 @@ border: gray solid 2px;
     
 }
 
-.row {-webkit-order:3;order:3;
-    
-}
- 
+
  
 
- #map { -webkit-order:3;order:3;
+ #map { 
     
      border: 1px solid grey;
      margin: 100px;
@@ -487,7 +486,7 @@ border: gray solid 2px;
     
 }
 
-#calendar{ -webkit-order:3;order:3;
+#calendar{ 
     margin:100px;
      border: 1px solid grey;
     text-align: right;
@@ -507,7 +506,7 @@ border: gray solid 2px;
   
 }
 
-#FindUs { -webkit-order:3;order:3;
+#FindUs { 
     
     text-align: left;
     border: 1px solid grey;
@@ -521,7 +520,7 @@ border: gray solid 2px;
   text-align: left; 
 }
 
-#Hours { -webkit-order:3;order:3;
+#Hours { 
     
     text-align: left;
     border: 1px solid grey;
@@ -531,19 +530,19 @@ border: gray solid 2px;
     
 }
 
-#Hourstext{ -webkit-order:3;order:3;
+#Hourstext{ 
     
     text-align: left; 
     
 }
 
-#googlemap{ -webkit-order:3;order:3;
+#googlemap{ 
     margin-top: -230px;
     margin-right: -210px;
     
 }
 
-iframe { -webkit-order:3;order:3;
+iframe { 
     
     width:200px; height:200px;  
     border:1px solid grey;
@@ -554,7 +553,7 @@ iframe { -webkit-order:3;order:3;
 
 
 
-#Caltext { -webkit-order:3;order:3;
+#Caltext { 
     
     text-align: left;
     border: 1px solid grey;
@@ -591,7 +590,7 @@ margin-right:20px;
 }
 /*******Footer*****/
 
-footer {  -webkit-order:3;order:3;
+footer {  
 
  background: rgb(108,167,69);;color:black;
  
@@ -613,7 +612,7 @@ padding-right: 100px;
 
 
 
-.containerAbout { -webkit-order:3;order:3;
+.containerAbout { 
     
      border: 1px solid grey;
     height: 1000px;
@@ -623,7 +622,7 @@ padding-right: 100px;
     
 }
 
-#Store { -webkit-order:3;order:3;
+#Store { 
     
     float: left;
     width:510px; height:350px;
@@ -633,7 +632,7 @@ padding-right: 100px;
     
 }
 
-#AboutTitle { -webkit-order:3;order:3;
+#AboutTitle { 
     
     text-align: right;
     margin-top: 60px;
@@ -641,7 +640,7 @@ padding-right: 100px;
     font-family: 'Curlz MT', sans-serif;
 }
 
-#paragraph1 { -webkit-order:3;order:3;
+#paragraph1 { 
     
     line-height: 300%;
     margin-left: 650px;
@@ -651,7 +650,7 @@ padding-right: 100px;
     
 }
 
-#paragraph2 { -webkit-order:3;order:3;
+#paragraph2 { 
     
     line-height: 300%;
     margin-left: 80px;
@@ -694,7 +693,7 @@ padding-right: 100px;
 
 
 
-.containerOurMenu { -webkit-order:3;order:3;
+.containerOurMenu { 
     
      border: 1px solid grey;
     height: 1000px;
@@ -1031,7 +1030,7 @@ float:right;
 /*ContactUS*//*ContactUS*//*ContactUS*//*ContactUS*//*ContactUS*//*ContactUS*//*ContactUS*/
 /*ContactUS*//*ContactUS*//*ContactUS*//*ContactUS*//*ContactUS*//*ContactUS*//*ContactUS*/
 
-#ai {-webkit-order:3;order:3;
+#ai {
     
    
     
