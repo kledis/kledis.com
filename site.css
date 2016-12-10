@@ -1061,7 +1061,7 @@ float:right;
 #KK2 {
  
  color:white;
- margin-top:110px;
+ margin-top:140px;
  float:left;
 
  margin-left:-107px;
@@ -1072,7 +1072,7 @@ float:right;
  color:white;
  margin-left: -107px;
  float:left;
- margin-top:170px;
+ margin-top:230px;
  
     
 }
@@ -1080,38 +1080,39 @@ float:right;
 #KK4 {
  
  color:white;
- margin-top:20px;
+ margin-top:60px;
  float:right;
- margin-right:60px;
+ margin-right:500px;
     
 }
 #KK5 {
  
  color:white;
- margin-top:20px;
+ margin-top:110px;
  float:right;
- margin-right:90px;
+ margin-right:-140px;
     
 }
 #KK6 {
  
  color:white;
- margin-top:20px;
+ margin-top:220px;
  float:right;
- margin-right:-40px;
+ margin-right:-180px;
     
 }
 #KK7 {
  
  color:white;
- margin-top:20px;
+ margin-top:220px;
  float:right;
+ margin-right:-450px; 
     
 }
 #go4 {
     
     float: right;
-    margin-top:-186px;
+    margin-top:103px;
     margin-right:-140px;
     font-size: 19px;
     color:blue;
@@ -1122,7 +1123,7 @@ float:right;
 #Arrow4 {
     
     float: right;
-     margin-top:-300px;
+     margin-top:-10px;
      font-size: 200px;
      margin-right: 150px;
      
