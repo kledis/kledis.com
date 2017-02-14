@@ -15,12 +15,6 @@ body{
 /*Home*//*Home*//*Home*//*Home*//*Home*//*Home*//*Home*//*Home*//*Home*//*Home*//*Home*//*Home*/
 
 
-@media screen and (max-width: 1020px) {
-  #container, #header, #content, #footer {
-    float: none;
-    width: auto;
-  }
-}
 
 
 
